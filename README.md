@@ -140,6 +140,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Developed by [Julius Midega](https://github.com/Juliusmidega3).
 
----
 
-This **README** follows the format of the example you provided, with all the required sections and an explanation of the Python code structure and functionality. Let me know if you need further changes!
